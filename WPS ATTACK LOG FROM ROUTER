@@ -1,0 +1,20 @@
+MacTableInsertEntry(): wcid 1 EntryType:0 =====
+RTMP_TimerListAdd: add timer obj c03a641c, size = 128!
+RTMP_TimerListAdd: add timer obj c03a6450, size = 129!
+RTMP_TimerListAdd: add timer obj c03a6538, size = 130!
+RTMP_TimerListAdd: add timer obj c03a65d8, size = 131!
+RTMP_TimerListAdd: add timer obj c03a660c, size = 132!
+New Sta: redacted mac
+peer_auth_req: 30849 usec
+peer_assoc_req: 5660 usec
+CON_WPS: Stop the ApCli WPS, state [0]
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 1
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 1
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+MacTableDeleteEntry(): wcid 1 =====
+WpsSmProcess::  EAPOL Packet.  Code = 2.    Type = 254
+Del Sta:redacted mac
